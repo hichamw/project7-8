@@ -1,6 +1,7 @@
 /**
- * Created by hicha on 13-7-2016.
+ * Created by hicham on 13-7-2016.
  */
+
 public class Ship {
     private String mmsi;
     private String shipName;
